@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56f0a733-30f5-416a-aa2c-aef1b19dcd97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new/image9-1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +25,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +51,8 @@
       <updated>1577240715770</updated>
       <workItem from="1577240718993" duration="1154000" />
       <workItem from="1577442646482" duration="6959000" />
-      <workItem from="1578400237496" duration="4905000" />
+      <workItem from="1578400237496" duration="5217000" />
+      <workItem from="1578485107086" duration="2611000" />
     </task>
     <servers />
   </component>
